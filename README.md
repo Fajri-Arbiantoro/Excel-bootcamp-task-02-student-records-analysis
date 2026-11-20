@@ -14,8 +14,8 @@ This project represents another step in developing practical data analysis skill
 
 ## Project Files
 
-- [Anonymized Excel Workbook](./Student-Records-Analysis-Anonymized.xlsx)
-- [Project Presentation](./Excel-Portfolio-Part-2.pdf)
+- **Original Excel Workbook:** Not linked in this README because it contains student records and may include personal information.
+- [Project Presentation](./Excel%20Portfolio%20Part%202%20Fajri%20Arbiantoro.pdf)
 
 ## Learning Objectives
 
@@ -128,4 +128,4 @@ I will continue documenting each project, including the techniques I practise, t
 
 **Disclaimer**
 
-This project was completed as part of an intermediate Excel Bootcamp for educational and portfolio purposes only. The workbook uses an anonymized practice dataset. Personal and potentially identifying fields have been replaced with synthetic values to protect individual privacy. The project is not intended for commercial use or to represent actual student performance.
+This project was completed as part of an intermediate Excel Bootcamp for educational and portfolio purposes only. The analysis is based on a student-records practice dataset supplied for the assignment. The original workbook is not linked here because it may contain personal information about students. Please do not use, reproduce, or redistribute student information for purposes beyond the original educational assignment. The project is not intended for commercial use or to represent actual student performance.
